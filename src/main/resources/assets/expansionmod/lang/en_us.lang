@@ -1,0 +1,10 @@
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.bronze_ingot.name=Bronze Ingot
+item.wire.name=Wire
+item.wire_coil.name=Wire Coil
+item.iron_plate.name=Iron Plate
+
+tile.copper_block.name=Copper Block
+tile.tin_block.name=Tin Block
+tile.bronze_block.name=Bronze Block

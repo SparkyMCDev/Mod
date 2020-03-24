@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "expansionmod:bronze_block"}
+    ],
+    "result": {
+        "item": "expansionmod:bronze_ingot",
+        "count": 9
+    }
+}
